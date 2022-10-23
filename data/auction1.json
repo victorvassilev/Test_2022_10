@@ -1,0 +1,46 @@
+{
+  "id": 1,
+  "reservePrice": 100,
+  "bids": [
+    {
+      "user": "A",
+      "value": 110
+    },
+    {
+      "user": "A",
+      "value": 130
+    },
+    {
+      "user": "B",
+      "value": 0
+    },
+    {
+      "user": "C",
+      "value": 125
+    },
+    {
+      "user": "D",
+      "value": 105
+    },
+    {
+      "user": "D",
+      "value": 115
+    },
+    {
+      "user": "D",
+      "value": 90
+    },
+    {
+      "user": "E",
+      "value": 132
+    },
+    {
+      "user": "E",
+      "value": 135
+    },
+    {
+      "user": "E",
+      "value": 140
+    }
+  ]
+}
